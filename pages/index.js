@@ -14,8 +14,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd} >
         <p>
-          Soy violoncellista. Hace un tiempo que estoy aprendiendo a programar.
-          También me interesa la matemática y la filosofía.
+          Músico interesado en programación, matemática y filosofía.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
