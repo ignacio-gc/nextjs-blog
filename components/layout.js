@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 
 
 const name = 'Ignacio Caamaño'
-export const siteTitle = 'Primer prueba con Next'
+export const siteTitle = 'Next blog tutorial'
 
 export default function Layout({ children, home }) {
   return (
